@@ -50,7 +50,7 @@ Protocols like Modbus, DNP3, IEC 60870-5-104.
 
 # Key Formulas Used in SCADA (with Examples)
 
-# A. Ohm’s Law
+# Ohm’s Law
 
 𝑉=𝐼×𝑅
 
@@ -58,9 +58,7 @@ Application: To detect voltage drop across transmission lines.
 
 Example:
 
-𝐼=250
- 
-𝐴I=250A, 
+𝐼=250 
 
 𝑅=0.2Ω
 
@@ -68,9 +66,31 @@ Voltage drop
 
 𝑉=250×0.2=50𝑉
 
-V=250×0.2=50V
-
 ![image](https://github.com/user-attachments/assets/fd2642b9-3ec1-483d-a1a7-b2e589ca17fe)
+
+# Real Power (P)
+
+𝑃=𝑉×𝐼×cos(𝜙)
+
+Application: Measures actual power consumed/delivered.
+
+Example:
+
+V=132kV
+
+I=200Acos(𝜙)=0.9
+
+P=132,000×200×0.9=23.76MW
+
+# Apparent Power (S)
+
+S=V×I
+
+Application: Full capacity of the transmission line including losses.
+
+S=132,000×200=26.4MVA
+
+
 
 
 
