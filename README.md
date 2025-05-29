@@ -22,5 +22,31 @@ Historical data logging and trend analysis.
 
 ![image](https://github.com/user-attachments/assets/cae3c577-c698-4da1-9297-f766a2b1b286)
 
+# MTU (Master Terminal Unit):
+
+Located at the control center.
+
+Collects and processes data from RTUs.
+
+# RTU (Remote Terminal Unit):
+
+Placed at substations or field locations.
+
+Collects data from sensors and sends it to the MTU.
+
+# PLC (Programmable Logic Controller):
+
+Handles automation logic (e.g., trip breakers on fault detection).
+
+# HMI (Human-Machine Interface):
+
+Visual interface for human operators to monitor and control equipment.
+
+# Communication Infrastructure:
+
+Wired (fiber optics, coaxial cables) or wireless (radio, satellite).
+
+Protocols like Modbus, DNP3, IEC 60870-5-104.
+
 
 
