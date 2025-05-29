@@ -132,6 +132,9 @@ This real-time decision-making minimizes the risk of line failure, prevents casc
 
 downtime, and supports efficient energy management in modern power systems.
 
+![image](https://github.com/user-attachments/assets/463fc33b-bbf4-4337-9d2e-82fed12d80c0)
+
+
 
 
 
