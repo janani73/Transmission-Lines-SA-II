@@ -136,20 +136,29 @@ downtime, and supports efficient energy management in modern power systems.
 
 # References
 
-📚 Books
+1. M. Kezunovic, “Smart Fault Location for Smart Grids,” IEEE Transactions on Smart Grid, Vol. 2, No. 1, 2011.
 
-Stuart A. Boyer, SCADA: Supervisory Control and Data Acquisition
+2. Discusses the role of SCADA and PMUs in real-time fault location and grid management.
+https://doi.org/10.1109/TSG.2010.2091651
 
-Mini S. Thomas, Power System SCADA and Smart Grids
+3. P. Kundur, Power System Stability and Control, McGraw-Hill Education, 1994.
 
-🧠 Online Resources
+While not solely focused on SCADA, this book explains SCADA's role in system stability and control.
 
-NPTEL SCADA Course
+NPTEL Online Course – Power System Automation
+
+4.Hosted by IITs, this free course covers SCADA and substation automation.
+https://nptel.ac.in/courses/108105101
 
 Electrical4U – SCADA System
 
+5.An educational article explaining SCADA basics, components, and applications.
+https://www.electrical4u.com/scada-system/
+
 IEEE Xplore Digital Library
 
+6.Searchable database for peer-reviewed SCADA and smart grid papers.
+https://ieeexplore.ieee.org
 
 
 
