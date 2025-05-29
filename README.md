@@ -114,6 +114,24 @@ PF=𝑃/𝑆=23.76/26.4≈0.9
 
 ✅ Enables real-time data analytics and forecasting
 
+# SCADA in Action: Real-Life Example 
+
+In a high-voltage transmission network, SCADA plays a vital role in preventing system overloads and blackouts. Consider a 220 kV transmission line that normally operates at 500 A. During a peak demand hour,the 
+
+line current spikes to 600 A due to unexpected load increase. The SCADA system, via its RTU at the substation, continuously monitors the current and voltage. Once the overload threshold is detected, the SCADA 
+
+system instantly calculates the power flow using real-time data:
+
+P=V×I×cos(ϕ)=220,000×600×0.85=112.2MW
+
+This exceeds the rated capacity of 100 MW. The SCADA control logic automatically initiates a corrective action—sending signals to remotely controlled circuit breakers to shed non-critical loads or reroute power
+
+through alternative lines. An alarm is also raised in the control center, alerting operators to verify and confirm actions. Simultaneously, the event is logged for historical analysis and performance review.
+
+This real-time decision-making minimizes the risk of line failure, prevents cascading outages, and ensures continued supply to critical areas. Such automation through SCADA enhances grid reliability, reduces 
+
+downtime, and supports efficient energy management in modern power systems.
+
 
 
 
