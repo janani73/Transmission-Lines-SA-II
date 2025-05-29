@@ -102,6 +102,20 @@ Q=132,000×200×0.4359≈11.5MVAR
 
 PF=𝑃/𝑆=23.76/26.4≈0.9
 
+# Benefits of SCADA in Transmission
+
+✅ Faster fault detection and isolation
+
+✅ Remote operation reduces need for field visits
+
+✅ Prevents blackout through early warnings
+
+✅ Improves grid efficiency and load management
+
+✅ Enables real-time data analytics and forecasting
+
+
+
 
 
 
