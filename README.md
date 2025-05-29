@@ -48,5 +48,29 @@ Wired (fiber optics, coaxial cables) or wireless (radio, satellite).
 
 Protocols like Modbus, DNP3, IEC 60870-5-104.
 
+# Key Formulas Used in SCADA (with Examples)
+
+# A. Ohm’s Law
+
+𝑉=𝐼×𝑅
+
+Application: To detect voltage drop across transmission lines.
+
+Example:
+
+𝐼=250
+ 
+𝐴I=250A, 
+
+𝑅=0.2Ω
+
+Voltage drop 
+
+𝑉=250×0.2=50𝑉
+
+V=250×0.2=50V
+
+
+
 
 
