@@ -134,6 +134,21 @@ downtime, and supports efficient energy management in modern power systems.
 
 ![image](https://github.com/user-attachments/assets/463fc33b-bbf4-4337-9d2e-82fed12d80c0)
 
+# References
+
+📚 Books
+
+Stuart A. Boyer, SCADA: Supervisory Control and Data Acquisition
+
+Mini S. Thomas, Power System SCADA and Smart Grids
+
+🧠 Online Resources
+
+NPTEL SCADA Course
+
+Electrical4U – SCADA System
+
+IEEE Xplore Digital Library
 
 
 
