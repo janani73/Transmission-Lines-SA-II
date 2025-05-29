@@ -28,25 +28,39 @@ Located at the control center.
 
 Collects and processes data from RTUs.
 
+![image](https://github.com/user-attachments/assets/93844b35-dea0-4153-b3c4-ee6e690a3e09)
+
+
 # RTU (Remote Terminal Unit):
 
 Placed at substations or field locations.
 
 Collects data from sensors and sends it to the MTU.
 
+![image](https://github.com/user-attachments/assets/0789a056-5fe2-494a-bc22-c8eaff8edafa)
+
 # PLC (Programmable Logic Controller):
 
 Handles automation logic (e.g., trip breakers on fault detection).
 
+![image](https://github.com/user-attachments/assets/98ed2ef9-169c-41ab-9297-4280dfd8e0cc)
+
+
 # HMI (Human-Machine Interface):
 
 Visual interface for human operators to monitor and control equipment.
+
+![image](https://github.com/user-attachments/assets/763a241f-25ea-4edf-87ad-68b6ff52dd80)
+
 
 # Communication Infrastructure:
 
 Wired (fiber optics, coaxial cables) or wireless (radio, satellite).
 
 Protocols like Modbus, DNP3, IEC 60870-5-104.
+
+![image](https://github.com/user-attachments/assets/0294c9b9-a043-4ba5-a8b7-2759c1703a22)
+
 
 # Key Formulas Used in SCADA (with Examples)
 
