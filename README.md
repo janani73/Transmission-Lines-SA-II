@@ -70,6 +70,9 @@ Voltage drop
 
 V=250×0.2=50V
 
+![image](https://github.com/user-attachments/assets/fd2642b9-3ec1-483d-a1a7-b2e589ca17fe)
+
+
 
 
 
