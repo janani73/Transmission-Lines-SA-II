@@ -20,6 +20,8 @@ Historical data logging and trend analysis.
 
 # Architecture of SCADA in Power Transmission
 
+The architecture of a SCADA system is built around five essential components. First, the Master Terminal Unit (MTU) acts as the central control hub, located at the control center, where it sends commands to and receives data from field devices. Second, Remote Terminal Units (RTUs) are placed at remote field locations such as substations; they gather data from sensors and electrical equipment, forwarding this information to the MTU while also executing remote control instructions. Third, Programmable Logic Controllers (PLCs) are used for localized, high-speed automation tasks such as opening circuit breakers or regulating voltage levels. In modern SCADA systems, PLCs can work alongside or replace RTUs. Fourth, the Human-Machine Interface (HMI) provides a user-friendly graphical display for operators to monitor system performance, view alarms, and control equipment in real time. Finally, the communication network 
+
 ![image](https://github.com/user-attachments/assets/cae3c577-c698-4da1-9297-f766a2b1b286)
 
 # MTU (Master Terminal Unit):
