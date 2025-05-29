@@ -90,6 +90,17 @@ Application: Full capacity of the transmission line including losses.
 
 S=132,000×200=26.4MVA
 
+# Reactive Power (Q)
+
+Q=V×I×sin(ϕ)
+
+𝜙=cos−1(0.9)=25.84∘⇒sin(𝜙)=0.4359
+ 
+Q=132,000×200×0.4359≈11.5MVAR
+
+# Power Factor (PF)
+
+PF=𝑃/𝑆=23.76/26.4≈0.9
 
 
 
